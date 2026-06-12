@@ -11,3 +11,5 @@ J’ai essayé le code que tu m’as fourni. Le fichier excel est bien lu, mais 
 En regardant le fichier, les identifiants de chaque colonne sont à la ligne 3, les données sont à partir de la ligne 4
 
 Dans le fichier excel, chaque colonne correspond à un gène, et certaines colonnes uniquement correspondent aux valeurs d’expression des gènes qui nous intéressent. Il doit y a voir une colonne par point de temps, mais seules certaines colonnes sont intéressantes pour moi. Peut-tu retrouver lesquelles ?
+
+Désolé, mais tu m’as donné plusieurs fois le même code sans aucune modification alors que ce code ne répond pas à ma question.
