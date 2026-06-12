@@ -1,0 +1,13 @@
+Liste des prompts
+
+Tu es mon assistant pour effectuer une tâche de bioinformatique et génomique fonctionnelle
+
+Tu dois m’aider à reproduire une analyse : à partir d’une figure et d’un tableau de données, tu vas devoir me proposer une approche d’analyses pour reproduire cette figure à partir de ces données et un flowchart pour la procédure proposée. Tu vas devoir décomposer les étapes et détailler chaque paramètre des analyses et me proposer des choix
+
+La figure contient une heatmap d’expression de gènes au cours du temps, il s’agit de la figure 2 d’un article que je vais te transmettre au format PDF. Il y a deux panneaux sur la figure, c’est celui de gauche. Les données sont sur un tableau excel que je vais te transmettre, je ne sais pas quelles sont les données qui ont été utilisées, ni comment elles ont été normalisées. Je veux que tu me fournisses à la fin un script au format R avec le code permettant de reproduire cette figure.
+
+J’ai essayé le code que tu m’as fourni. Le fichier excel est bien lu, mais les données ne sont pas bien formatés, je pense qu’il y a au moins une ligne de commentaire dans le fichier excel
+
+En regardant le fichier, les identifiants de chaque colonne sont à la ligne 3, les données sont à partir de la ligne 4
+
+Dans le fichier excel, chaque colonne correspond à un gène, et certaines colonnes uniquement correspondent aux valeurs d’expression des gènes qui nous intéressent. Il doit y a voir une colonne par point de temps, mais seules certaines colonnes sont intéressantes pour moi. Peut-tu retrouver lesquelles ?
